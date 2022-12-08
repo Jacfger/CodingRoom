@@ -1,6 +1,6 @@
 # Virtual Coding Room
 
-![Currently hosting with GitHub!](https://jacfger.github.io/CodingRoom/)
+[Currently hosting with GitHub!](https://jacfger.github.io/CodingRoom/)
 
 This project is a course project of Advanced Computer Graphics (although you may argue it's more like a game) and aims to provide a proof-of-concepts of creating virtual coding environment that is both cozy and realistic to stay in, so you can touch grass without actually touch grass!
 
